@@ -1,5 +1,4 @@
 # swiftmailer-postmark 
-[![Build Status](https://travis-ci.org/wildbit/swiftmailer-postmark.svg?branch=master)](https://travis-ci.org/wildbit/swiftmailer-postmark)
 
 An official Swiftmailer Transport for Postmark.
 
@@ -10,7 +9,7 @@ You're just steps away from super simple sending via Postmark:
 ##### 1. Include this package in your project:
 
 ```bash
-composer require wildbit/swiftmailer-postmark
+composer require flipboxdigital/swiftmailer-postmark
 ```
 ##### 2. Construct the Postmark Transport and pass it to your `Swift_Mailer` instance:
 
