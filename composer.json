@@ -3,7 +3,7 @@
         "type": "composer",
         "url": "https://packagist.org"
     }],
-    "name": "wildbit/swiftmailer-postmark",
+    "name": "flipboxdigital/swiftmailer-postmark",
     "description": "A Swiftmailer Transport for Postmark.",
     "require": {
         "swiftmailer/swiftmailer": "~6.0",
