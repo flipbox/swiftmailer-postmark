@@ -33,5 +33,6 @@
     "authors": [{
         "name": "Postmark",
         "email": "support@postmarkapp.com"
-    }]
+    }],
+    "abandoned": "wildbit/swiftmailer-postmark"
 }
